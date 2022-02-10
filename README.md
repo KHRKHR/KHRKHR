@@ -44,6 +44,6 @@
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHRKHR&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHRKHR&layout=compact)](https://github.com/KHRKHR/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHRKHR&show_icons=true&theme=vue)
 </div>
