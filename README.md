@@ -35,8 +35,15 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-3178C6?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-61DAFB?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-000000?style=flat-square&logo=Next.Eclipse IDE&logoColor=white"/><br/>
+ <img src="https://img.shields.io/badge/Oracle-caa6fe?style=flat-square&logo=Oracle&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-FF6C37?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
 
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</br></br></div>
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHRKHR&show_icons=true&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHRKHR&layout=compact)](https://github.com/KHRKHR/github-readme-stats)
+</div>
