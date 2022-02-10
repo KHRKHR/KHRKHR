@@ -1,12 +1,8 @@
 <div align="center">
  
-# Hello, I'm HyeRim 👏
+![header](https://capsule-render.vercel.app/api?type=slice&color=9BD9A9&height=170&section=header&text=%20HyeRim();&fontColor=090707&fontAlign=65&fontSize=100)
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKHRKHR&count_bg=%23C7CBC4&title_bg=%2378A27B&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
- <img src="https://user-images.githubusercontent.com/97592294/153415792-e2c5d3e7-d128-400e-b57d-c69c305d7603.gif" />
-
-
-
 
 </br></br>
 ## **:sparkles:&nbsp;I am&nbsp;:sparkles:**
@@ -49,4 +45,5 @@
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=DED99A&height=100&section=footer)
