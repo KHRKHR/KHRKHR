@@ -16,12 +16,10 @@
 
 </br></br>
 ## **:sparkles:&nbsp;Project&nbsp;:sparkles:**
-  · 자바 콘솔 프로젝트 : 쌍용은행을 사이트를 개설하여 콘솔로 출력되는 서비스 ([Github](https://github.com/KHRKHR/JavaProject))</br>
-  · 오라클 DB 프로젝트 : SQL Developer를 사용한 교육 관리 서비스 ([Github](https://github.com/KHRKHR/OracleProject))</br>
-  · 웹 프로젝트 : 클라이언트 언어를 활용한 식단&건강 복합 쇼핑몰 서비스 ([Github](https://github.com/KHRKHR/WebProject))</br>
-  · 스프링 프로젝트 : 추후 업로드 예정 ([Github](https://github.com/KHRKHR/SpringProject))</br>
-  · 나의 포트폴리오 : 신입 개발자 김혜림의 포트폴리오 사이트 개설 ([Github](https://github.com/KHRKHR/Portfolio))
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=JavaProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/JavaProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=OracleProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/OracleProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=WebProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/WebProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=SpringProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/SpringProject)
 
 </br></br>
 ## **:sparkles:&nbsp;Languages and Tools&nbsp;:sparkles:**
