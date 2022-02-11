@@ -36,13 +36,12 @@
  <img src="https://img.shields.io/badge/MySQL-FF6C37?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
 
-<br />
+<br><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHRKHR&layout=compact)](https://github.com/KHRKHR/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHRKHR&show_icons=true&theme=vue)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHRKHR&show_icons=true&theme=vue)
 </div>
 
-
-
 </br></br></br></br>
+
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=DED99A&height=100&section=footer)
