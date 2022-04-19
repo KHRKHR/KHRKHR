@@ -27,7 +27,6 @@
 ## **:sparkles:&nbsp;About Me and Study&nbsp;:sparkles:**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=KHRKHR&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/KHRKHR)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=Portfolio&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/Portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=KHRKHR.github.io&theme=vue&cache_seconds=1800)](https://khrkhr.github.io/)
 
 
 </br></br>
