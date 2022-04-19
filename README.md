@@ -24,9 +24,7 @@
 </br></br>
 ## **:sparkles:&nbsp;Study&nbsp;:sparkles:**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=ErrorNote&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/ErrorNote)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=OracleProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/OracleProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=WebProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/WebProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=SpringProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/SpringProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=LectureNote&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/LectureNote)
 
 </br></br>
 ## **:sparkles:&nbsp;Languages and Tools&nbsp;:sparkles:**
