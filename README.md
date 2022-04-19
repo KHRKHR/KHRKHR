@@ -4,6 +4,7 @@
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKHRKHR&count_bg=%23C7CBC4&title_bg=%2378A27B&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
+ 
 </br></br>
 ## **:sparkles:&nbsp;I am&nbsp;:sparkles:**
 첫 번째 언어는 자바로 시작했습니다. </br>
@@ -21,11 +22,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=WebProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/WebProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=SpringProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/SpringProject)
 
+
 </br></br>
 ## **:sparkles:&nbsp;Study&nbsp;:sparkles:**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=KHRKHR.github.io&theme=vue&cache_seconds=1800)](https://khrkhr.github.io/)
-</br></br>
 
+
+</br></br>
 ## **:sparkles:&nbsp;Languages and Tools&nbsp;:sparkles:**
 <div>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -40,9 +43,10 @@
  <img src="https://img.shields.io/badge/MySQL-FF6C37?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
 
-<br>
 
+</br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHRKHR&layout=compact)](https://github.com/KHRKHR/github-readme-stats) 
+
 
 </br></br>
 ## **:sparkles:&nbsp;My GitHub stats&nbsp;:sparkles:**
