@@ -23,7 +23,7 @@
 
 </br></br>
 ## **:sparkles:&nbsp;Study&nbsp;:sparkles:**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=LectureNote&theme=vue&cache_seconds=1800)](https://khrkhrLectureNote.github.io/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=LectureNote&theme=vue&cache_seconds=1800)](https://KHRKHRLectureNote.github.io/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=ErrorNote&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/ErrorNote)
 
 </br></br>
