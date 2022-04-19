@@ -23,10 +23,9 @@
 
 </br></br>
 ## **:sparkles:&nbsp;Study&nbsp;:sparkles:**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=LectureNote&theme=vue&cache_seconds=1800)](https://khrkhr.github.io/LectureNote.github.io/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=ErrorNote&theme=vue&cache_seconds=1800)](https://khrkhr.github.io/ErrorNote.github.io/)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=Coding Blog&theme=vue&cache_seconds=1800)](https://khrkhr.github.io/)
 </br></br>
+
 ## **:sparkles:&nbsp;Languages and Tools&nbsp;:sparkles:**
 <div>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
