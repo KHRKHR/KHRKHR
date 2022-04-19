@@ -23,7 +23,7 @@
 
 </br></br>
 ## **:sparkles:&nbsp;Study&nbsp;:sparkles:**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=khrkhr&theme=vue&cache_seconds=1800)](https://khrkhr.github.io/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=khrkhr.github.io&theme=vue&cache_seconds=1800)](https://khrkhr.github.io/)
 </br></br>
 
 ## **:sparkles:&nbsp;Languages and Tools&nbsp;:sparkles:**
