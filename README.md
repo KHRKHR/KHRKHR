@@ -22,6 +22,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=SpringProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/SpringProject)
 
 </br></br>
+## **:sparkles:&nbsp;&nbsp;:sparkles:**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=JavaProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/JavaProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=OracleProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/OracleProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=WebProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/WebProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=SpringProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/SpringProject)
+
+</br></br>
 ## **:sparkles:&nbsp;Languages and Tools&nbsp;:sparkles:**
 <div>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
