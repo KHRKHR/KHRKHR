@@ -17,7 +17,7 @@
 
 </br></br>
 ## **:sparkles:&nbsp;Project&nbsp;:sparkles:**
-![](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=JavaProject&theme=vue&cache_seconds=1800)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=github-readme-stats)](https://github.com/KHRKHR/JavaProject/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=JavaProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/JavaProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=OracleProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/OracleProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=WebProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/WebProject)
