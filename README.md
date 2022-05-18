@@ -17,7 +17,6 @@
 
 </br></br>
 ## **:sparkles:&nbsp;Project&nbsp;:sparkles:**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=github-readme-stats)](https://github.com/KHRKHR/JavaProject/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=JavaProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/JavaProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=OracleProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/OracleProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHRKHR&repo=WebProject&theme=vue&cache_seconds=1800)](https://github.com/KHRKHR/WebProject)
@@ -48,11 +47,13 @@
 
 
 </br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHRKHR&layout=compact)](https://github.com/KHRKHR/github-readme-stats) 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHRKHR&layout=compact&theme=vue)](https://github.com/KHRKHR)
+<br>
+<br>
 
 </br></br>
 ## **:sparkles:&nbsp;My GitHub stats&nbsp;:sparkles:**
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KHRKHR&show_icons=true&theme=vue) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHRKHR&show_icons=true&theme=vue)
 
 </div>
