@@ -53,7 +53,6 @@
 
 </br></br>
 ## **:sparkles:&nbsp;My GitHub stats&nbsp;:sparkles:**
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KHRKHR&show_icons=true&theme=vue) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHRKHR&show_icons=true&theme=vue)
 
 </div>
